@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Exception__c</members>
+        <members>Slack_Service__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>31.0</version>
+</Package>
